@@ -1,5 +1,5 @@
-# Simulación :computer:
-## :notebook: Simulación - Tatiana Cárdenas Jho
+# Simulación
+## Simulación - Tatiana Cárdenas Jho
 
 *ÍNDICE*
 - *Prácticas*
