@@ -7,7 +7,9 @@
 
   - :file_folder: [Práctica 02 Regresión](https://github.com/tatcjho/Simulacion/tree/main/Covid-Ecuador)
 
- 
+  - :file_folder: [Práctica 05 FIFA]( https://github.com/tatcjho/Simulacion/tree/main/FIFA)
+
+
 
 - *ACTIVIDADES EN CLASE*
   - :pencil2: [Boletin 01 ](https://github.com/tatcjho/Simulacion/tree/main/Boletin1)
