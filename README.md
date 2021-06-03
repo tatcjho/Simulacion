@@ -9,6 +9,7 @@
 
   - :file_folder: [Práctica 05 FIFA]( https://github.com/tatcjho/Simulacion/tree/main/FIFA)
 
+  - :file_folder: [Práctica 06 Car Wash]( https://github.com/tatcjho/Simulacion/tree/main/CARWASH)
 
 
 - *ACTIVIDADES EN CLASE*
