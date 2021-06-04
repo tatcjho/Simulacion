@@ -17,3 +17,5 @@
 
 - *PRUEBAS Y EXAMENES*
   - :pencil2: [Prueba Interciclo ](https://github.com/tatcjho/Simulacion/tree/main/PRUEBA%201%20-%20Cardenas%20Tatiana)
+  - :pencil2: [Examen Interciclo ](https://github.com/tatcjho/Simulacion/tree/main/EXAMEN%20INTERCICLO)
+
