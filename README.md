@@ -13,6 +13,7 @@
 
 
 - *ACTIVIDADES EN CLASE*
+  - :pencil2: [Actividad 01 - Juego de la vida](https://github.com/tatcjho/Simulacion/blob/main/Juego%20de%20la%20Vida/INFORME.pdf)
   - :pencil2: [Boletin 01 ](https://github.com/tatcjho/Simulacion/tree/main/Boletin1)
 
 - *PRUEBAS Y EXAMENES*
