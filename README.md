@@ -7,6 +7,8 @@
 
   - :file_folder: [Práctica 02 Regresión](https://github.com/tatcjho/Simulacion/tree/main/Covid-Ecuador)
 
+  - :file_folder: [Práctica 03 Modelo SIR](https://github.com/tatcjho/Simulacion/tree/main/SIR)
+
   - :file_folder: [Práctica 05 FIFA]( https://github.com/tatcjho/Simulacion/tree/main/FIFA)
 
   - :file_folder: [Práctica 06 Car Wash]( https://github.com/tatcjho/Simulacion/tree/main/CARWASH)
