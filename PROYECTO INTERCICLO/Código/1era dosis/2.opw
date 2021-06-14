@@ -1,0 +1,138 @@
+[RESOURCES]
+empleado12
+empleado11
+empleado10
+empleado8
+empleado9
+empleado6
+empleado7
+empleado4
+empleado5
+empleado2
+empleado3
+empleado1
+[VARIABLES]
+Salida6.NumberOut
+Salida4.NumberOut
+Salida5.NumberOut
+Control post vacuna m1.NumberIn
+Control post vacuna m1.NumberOut
+¿Sin problemas post vacuna? 1.NumberOut False
+Control post vacuna m6.NumberIn
+Control post vacuna m6.NumberOut
+Control post vacuna m9.NumberIn
+Control post vacuna m9.NumberOut
+Control post vacuna m8.NumberIn
+Control post vacuna m8.NumberOut
+Control post vacuna m7.NumberIn
+Control post vacuna m7.NumberOut
+Control post vacuna m5.NumberIn
+Control post vacuna m5.NumberOut
+Control post vacuna m4.NumberIn
+Control post vacuna m4.NumberOut
+Control post vacuna m3.NumberIn
+Control post vacuna m3.NumberOut
+Control post vacuna m2.NumberIn
+Control post vacuna m2.NumberOut
+Salida9.NumberOut
+Llegada de Personas.NumberOut
+¿Sin problemas post vacuna? 1.NumberOut True
+Entregar certificado m9.NumberIn
+Entregar certificado m8.NumberIn
+Entregar certificado m7.NumberIn
+Entregar certificado m5.NumberIn
+Entregar certificado m4.NumberIn
+Entregar certificado m3.NumberIn
+Entregar certificado m2.NumberIn
+Entregar certificado m6.NumberIn
+Entregar certificado m1.NumberIn
+Mesa3.NumberIn
+Mesa5.NumberOut
+Mesa4.NumberOut
+Entregar certificado m12.NumberIn
+Entregar certificado m11.NumberIn
+Entregar certificado m10.NumberIn
+Entregar certificado m12.NumberOut
+Entregar certificado m11.NumberOut
+Entregar certificado m10.NumberOut
+Mesa7.NumberIn
+Mesa8.NumberOut
+¿Problemas post vacuna? 12.NumberOut False
+¿Signos estables?.NumberOut False
+¿Problemas post vacuna? 6.NumberOut False
+¿Problemas post vacuna? 9.NumberOut False
+¿Problemas post vacuna? 8.NumberOut False
+¿Problemas post vacuna? 7.NumberOut False
+¿Problemas post vacuna? 5.NumberOut False
+¿Problemas post vacuna? 4.NumberOut False
+¿Problemas post vacuna? 3.NumberOut False
+¿Problemas post vacuna? 2.NumberOut False
+Mesa3.NumberOut
+¿Problemas post vacuna? 12.NumberOut True
+Salida1.NumberOut
+Salida3.NumberOut
+¿Problemas post vacuna? 10.NumberOut True
+¿Problemas post vacuna? 10.NumberOut False
+Mesa5.NumberIn
+Revisar signos vitales.NumberIn
+Revisar signos vitales.NumberOut
+Salida8.NumberOut
+Mesa8.NumberIn
+No Cumple signos vitales.NumberOut
+Mesa6.NumberIn
+Control post vacuna m12.NumberOut
+Control post vacuna m11.NumberOut
+Control post vacuna m10.NumberOut
+Salida2.NumberOut
+Mesa2.NumberIn
+fechaLlegada
+Mesa1.NumberOut
+¿Problemas post vacuna? 11.NumberOut False
+horaLlegada
+Entregar certificado e.NumberIn
+Entregar certificado e.NumberOut
+Mesa6.NumberOut
+Control post vacuna m12.NumberIn
+Control post vacuna m11.NumberIn
+Control post vacuna m10.NumberIn
+Ir a emergencias.NumberOut
+Salida7.NumberOut
+¿Problemas post vacuna? 11.NumberOut True
+Mesa9.NumberIn
+Ir a emergencias.NumberIn
+¿Signos estables?.NumberOut True
+Entregar certificado m9.NumberOut
+Entregar certificado m8.NumberOut
+Entregar certificado m7.NumberOut
+Entregar certificado m5.NumberOut
+Entregar certificado m4.NumberOut
+Entregar certificado m3.NumberOut
+Entregar certificado m2.NumberOut
+Entregar certificado m6.NumberOut
+Entregar certificado m1.NumberOut
+vacunas
+Mesa2.NumberOut
+¿Problemas post vacuna? 6.NumberOut True
+¿Problemas post vacuna? 9.NumberOut True
+¿Problemas post vacuna? 8.NumberOut True
+¿Problemas post vacuna? 7.NumberOut True
+¿Problemas post vacuna? 5.NumberOut True
+¿Problemas post vacuna? 4.NumberOut True
+¿Problemas post vacuna? 3.NumberOut True
+¿Problemas post vacuna? 2.NumberOut True
+Mesa12.NumberIn
+Mesa11.NumberIn
+Mesa10.NumberIn
+Mesa12.NumberOut
+Mesa11.NumberOut
+Mesa10.NumberOut
+Salida12.NumberOut
+Salida11.NumberOut
+Salida10.NumberOut
+Mesa9.NumberOut
+Salida emergencia.NumberOut
+Mesa4.NumberIn
+Mesa1.NumberIn
+Revisar identificacion.NumberIn
+Revisar identificacion.NumberOut
+Mesa7.NumberOut

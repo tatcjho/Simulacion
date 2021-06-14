@@ -1,0 +1,139 @@
+
+                                      ARENA Simulation Results
+                               tatyjho@hotmail.com - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Sistema de Peaje                                            Run execution date : 6/ 8/2021
+Analyst: Tomás Ortiz                                                 Model revision date: 6/ 8/2021
+
+Replication ended at time      : 12.0 Hours (Monday, June 07, 2021, 12:16:07)
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tiempo en sistema                           .62536     .04143     .02133     2.0419        449    
+Personas.VATime                             .57421     .04035     .02133     1.9268        449    
+Personas.NVATime                            .00000     .00000     .00000     .00000        449    
+Personas.WaitTime                           .05115     .00477     .00000     .16193        449    
+Personas.TranTime                           .00000     .00000     .00000     .00000        449    
+Personas.OtherTime                          .00000     .00000     .00000     .00000        449    
+Personas.TotalTime                          .62536     .04143     .02133     2.0419        449    
+Vehiculo.VATime                                 --         --         --         --          0
+Vehiculo.NVATime                                --         --         --         --          0
+Vehiculo.WaitTime                               --         --         --         --          0
+Vehiculo.TranTime                               --         --         --         --          0
+Vehiculo.OtherTime                              --         --         --         --          0
+Vehiculo.TotalTime                              --         --         --         --          0
+Mesa6.Queue.WaitingTime                     .06503     (Insuf)    .00000     .15448         34    
+Mesa9.Queue.WaitingTime                     .06633     (Insuf)    .00000     .13502         16    
+Mesa8.Queue.WaitingTime                     .05913     (Insuf)    .00000     .15488         22    
+Mesa5.Queue.WaitingTime                     .06325     (Insuf)    .00000     .15847         38    
+Mesa7.Queue.WaitingTime                     .06334     (Insuf)    .00000     .15774         27    
+Mesa1.Queue.WaitingTime                     .05326     (Insuf)    .00000     .14032         74    
+Peaje1.Queue.WaitingTime                        --         --         --         --          0
+Mesa4.Queue.WaitingTime                     .05158     (Insuf)    .00000     .16193         43    
+Mesa12.Queue.WaitingTime                    .05162     (Insuf)    .00000     .12317         10    
+Mesa11.Queue.WaitingTime                    .06115     (Insuf)    .00000     .14997         14    
+Mesa10.Queue.WaitingTime                    .06706     (Insuf)    .00000     .13675         16    
+Mesa3.Queue.WaitingTime                     .05388     (Insuf)    .00000     .13697         52    
+Mesa2.Queue.WaitingTime                     .05200     (Insuf)    .00000     .14213         60    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Personas.WIP                                23.704     (Corr)     .00000     52.000     17.000    
+Vehiculo.WIP                                .00000     (Insuf)    .00000     .00000     .00000    
+empleado12.NumberBusy                       .09726     (Insuf)    .00000     1.0000     .00000    
+empleado12.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado12.Utilization                      .09726     (Insuf)    .00000     1.0000     .00000    
+empleado11.NumberBusy                       .12798     (Insuf)    .00000     1.0000     .00000    
+empleado11.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado11.Utilization                      .12798     (Insuf)    .00000     1.0000     .00000    
+empleado10.NumberBusy                       .14778     (Insuf)    .00000     1.0000     .00000    
+empleado10.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado10.Utilization                      .14778     (Insuf)    .00000     1.0000     .00000    
+empleado8.NumberBusy                        .23028     (Insuf)    .00000     1.0000     .00000    
+empleado8.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado8.Utilization                       .23028     (Insuf)    .00000     1.0000     .00000    
+empleado9.NumberBusy                        .17256     (Insuf)    .00000     1.0000     .00000    
+empleado9.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado9.Utilization                       .17256     (Insuf)    .00000     1.0000     .00000    
+empleado6.NumberBusy                        .35772     (Insuf)    .00000     1.0000     .00000    
+empleado6.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado6.Utilization                       .35772     (Insuf)    .00000     1.0000     .00000    
+empleado7.NumberBusy                        .28086     (Insuf)    .00000     1.0000     .00000    
+empleado7.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado7.Utilization                       .28086     (Insuf)    .00000     1.0000     .00000    
+empleado4.NumberBusy                        .43785     (Insuf)    .00000     1.0000     1.0000    
+empleado4.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado4.Utilization                       .43785     (Insuf)    .00000     1.0000     1.0000    
+empleado5.NumberBusy                        .38516     (Insuf)    .00000     1.0000     .00000    
+empleado5.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado5.Utilization                       .38516     (Insuf)    .00000     1.0000     .00000    
+empleado2.NumberBusy                        .60977     (Insuf)    .00000     1.0000     1.0000    
+empleado2.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado2.Utilization                       .60977     (Insuf)    .00000     1.0000     1.0000    
+empleado3.NumberBusy                        .51583     (Insuf)    .00000     1.0000     1.0000    
+empleado3.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado3.Utilization                       .51583     (Insuf)    .00000     1.0000     1.0000    
+empleado1.NumberBusy                        .71504     (Insuf)    .00000     1.0000     1.0000    
+empleado1.NumberScheduled                   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+empleado1.Utilization                       .71504     (Insuf)    .00000     1.0000     1.0000    
+Mesa6.Queue.NumberInQueue                   .18425     (Insuf)    .00000     1.0000     .00000    
+Mesa9.Queue.NumberInQueue                   .08844     (Insuf)    .00000     1.0000     .00000    
+Mesa8.Queue.NumberInQueue                   .10841     (Insuf)    .00000     1.0000     .00000    
+Mesa5.Queue.NumberInQueue                   .20028     (Insuf)    .00000     1.0000     .00000    
+Mesa7.Queue.NumberInQueue                   .14250     (Insuf)    .00000     1.0000     .00000    
+Mesa1.Queue.NumberInQueue                   .32846     (Insuf)    .00000     1.0000     .00000    
+Peaje1.Queue.NumberInQueue                  .00000     (Insuf)    .00000     .00000     .00000    
+Mesa4.Queue.NumberInQueue                   .18664     (Insuf)    .00000     1.0000     1.0000    
+Mesa12.Queue.NumberInQueue                  .04301     (Insuf)    .00000     1.0000     .00000    
+Mesa11.Queue.NumberInQueue                  .07135     (Insuf)    .00000     1.0000     .00000    
+Mesa10.Queue.NumberInQueue                  .08941     (Insuf)    .00000     1.0000     .00000    
+Mesa3.Queue.NumberInQueue                   .23653     (Insuf)    .00000     1.0000     1.0000    
+Mesa2.Queue.NumberInQueue                   .26370     (Insuf)    .00000     1.0000     1.0000    
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Personas.NumberIn                           466.00    
+Personas.NumberOut                          449.00    
+Vehiculo.NumberIn                           .00000    
+Vehiculo.NumberOut                          .00000    
+empleado12.NumberSeized                     10.000    
+empleado12.ScheduledUtilization             .09726    
+empleado11.NumberSeized                     14.000    
+empleado11.ScheduledUtilization             .12798    
+empleado10.NumberSeized                     16.000    
+empleado10.ScheduledUtilization             .14778    
+empleado8.NumberSeized                      22.000    
+empleado8.ScheduledUtilization              .23028    
+empleado9.NumberSeized                      16.000    
+empleado9.ScheduledUtilization              .17256    
+empleado6.NumberSeized                      34.000    
+empleado6.ScheduledUtilization              .35772    
+empleado7.NumberSeized                      27.000    
+empleado7.ScheduledUtilization              .28086    
+empleado4.NumberSeized                      43.000    
+empleado4.ScheduledUtilization              .43785    
+empleado5.NumberSeized                      38.000    
+empleado5.ScheduledUtilization              .38516    
+empleado2.NumberSeized                      60.000    
+empleado2.ScheduledUtilization              .60977    
+empleado3.NumberSeized                      52.000    
+empleado3.ScheduledUtilization              .51583    
+empleado1.NumberSeized                      74.000    
+empleado1.ScheduledUtilization              .71504    
+System.NumberOut                            449.00    
+
+
+Simulation run time: 0.08 minutes.
+Simulation run complete.
