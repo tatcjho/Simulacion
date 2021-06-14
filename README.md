@@ -24,6 +24,6 @@
 
 - *PROYECTO INTERCICLO*
   - :pencil2: [Código](https://github.com/tatcjho/Simulacion/tree/main/PROYECTO%20INTERCICLO/C%C3%B3digo)
-  - 📎 [Blog](https://tatycjho.wixsite.com/my-site-2)
+  - 📎 [Página Web](https://tatycjho.wixsite.com/my-site-2)
   - 📹 [Video](https://www.youtube.com/watch?v=VPmV3RpaGkw)
 
