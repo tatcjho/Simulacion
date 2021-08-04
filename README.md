@@ -27,3 +27,7 @@
   - 📎 [Página Web](https://tatycjho.wixsite.com/my-site-2)
   - 📹 [Video](https://www.youtube.com/watch?v=VPmV3RpaGkw)
 
+- *PROYECTO FINAL*
+  - :pencil2: [Código](https://github.com/tatcjho/Simulacion/tree/main/https://github.com/tatcjho/Simulacion/tree/main/TRABAJO%20FINAL)
+
+
